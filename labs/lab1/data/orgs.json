@@ -1,0 +1,245 @@
+{
+    "nextId": 32,
+    "items": [
+        {
+            "id": 2,
+            "name": "1",
+            "founder": "2",
+            "founded": "0003-04-05",
+            "employers": "6",
+            "isActive": "1"
+        },
+        {
+            "id": 3,
+            "name": "Springboard Inc",
+            "founder": "Moyna Crimson",
+            "founded": "2015-06-30",
+            "employers": 2992,
+            "isActive": 0
+        },
+        {
+            "id": 4,
+            "name": "Overland Concepts",
+            "founder": "Beitris Brown",
+            "founded": "2013-01-30",
+            "employers": 3199,
+            "isActive": 0
+        },
+        {
+            "id": 5,
+            "name": "Oddity Resource",
+            "founder": "Kayla Plum",
+            "founded": "2017-06-06",
+            "employers": 4588,
+            "isActive": 1
+        },
+        {
+            "id": 6,
+            "name": "Napoleon Agency",
+            "founder": "Hedy Orange",
+            "founded": "2017-07-02",
+            "employers": 2868,
+            "isActive": 1
+        },
+        {
+            "id": 7,
+            "name": "Tribbles Enterprises",
+            "founder": "Chanda Amber",
+            "founded": "2012-04-21",
+            "employers": 995,
+            "isActive": 0
+        },
+        {
+            "id": 8,
+            "name": "Easy Technology",
+            "founder": "Fulvia Olive",
+            "founded": "2015-01-26",
+            "employers": 4507,
+            "isActive": 1
+        },
+        {
+            "id": 9,
+            "name": "Epic Resource",
+            "founder": "Gwyn Cyan",
+            "founded": "2013-12-18",
+            "employers": 4614,
+            "isActive": 0
+        },
+        {
+            "id": 10,
+            "name": "Acclaim Media",
+            "founder": "Caron Crimson",
+            "founded": "2015-07-02",
+            "employers": 4992,
+            "isActive": 0
+        },
+        {
+            "id": 11,
+            "name": "Spotlight Resource",
+            "founder": "Tamera Magenta",
+            "founded": "2016-12-11",
+            "employers": 702,
+            "isActive": 0
+        },
+        {
+            "id": 12,
+            "name": "Dauntless Tech",
+            "founder": "Carlee Amaranth",
+            "founded": "2020-11-01",
+            "employers": 1988,
+            "isActive": 1
+        },
+        {
+            "id": 13,
+            "name": "Snap Moonscape",
+            "founder": "Naomi Blue",
+            "founded": "2018-05-28",
+            "employers": 206,
+            "isActive": 0
+        },
+        {
+            "id": 14,
+            "name": "Orpheus Tech",
+            "founder": "Daile Amaranth",
+            "founded": "2015-01-05",
+            "employers": 1946,
+            "isActive": 1
+        },
+        {
+            "id": 15,
+            "name": "Troublesome Solutions",
+            "founder": "Cicely Beige",
+            "founded": "2019-01-17",
+            "employers": 811,
+            "isActive": 1
+        },
+        {
+            "id": 16,
+            "name": "Fortuna Fantastics",
+            "founder": "Gypsy Beige",
+            "founded": "2017-08-13",
+            "employers": 3898,
+            "isActive": 1
+        },
+        {
+            "id": 17,
+            "name": "The Brain Quest",
+            "founder": "Sela Aqua",
+            "founded": "2014-12-20",
+            "employers": 3593,
+            "isActive": 1
+        },
+        {
+            "id": 18,
+            "name": "Cool Cats of Results",
+            "founder": "Blancha Maroon",
+            "founded": "2013-08-10",
+            "employers": 2819,
+            "isActive": 0
+        },
+        {
+            "id": 19,
+            "name": "Acclaim Resource",
+            "founder": "Mommy Lime",
+            "founded": "2017-11-06",
+            "employers": 391,
+            "isActive": 0
+        },
+        {
+            "id": 20,
+            "name": "Candor Agency",
+            "founder": "Annmaria Azure",
+            "founded": "2014-05-17",
+            "employers": 3232,
+            "isActive": 1
+        },
+        {
+            "id": 21,
+            "name": "Bruhaha Marketing",
+            "founder": "Willow Sapphire",
+            "founded": "2012-10-26",
+            "employers": 2646,
+            "isActive": 1
+        },
+        {
+            "id": 22,
+            "name": "The Brain Fantastics",
+            "founder": "Marta Plum",
+            "founded": "2013-12-09",
+            "employers": 1934,
+            "isActive": 1
+        },
+        {
+            "id": 23,
+            "name": "Zephyr Leaverage",
+            "founder": "Lyndsie Salmon",
+            "founded": "2012-07-13",
+            "employers": 488,
+            "isActive": 1
+        },
+        {
+            "id": 24,
+            "name": "Tribbles Influence",
+            "founder": "Shannon Blue",
+            "founded": "2016-05-09",
+            "employers": 2996,
+            "isActive": 0
+        },
+        {
+            "id": 25,
+            "name": "Bruhaha Innovations",
+            "founder": "Emlynne White",
+            "founded": "2015-04-25",
+            "employers": 1794,
+            "isActive": 0
+        },
+        {
+            "id": 26,
+            "name": "Candor Quest",
+            "founder": "Becca Lime",
+            "founded": "2016-01-08",
+            "employers": 3321,
+            "isActive": 0
+        },
+        {
+            "id": 27,
+            "name": "Springboard Skyline",
+            "founder": "Daveen Amaranth",
+            "founded": "2013-08-02",
+            "employers": 3068,
+            "isActive": 0
+        },
+        {
+            "id": 28,
+            "name": "Spotlight Marketing",
+            "founder": "Kimmi Indigo",
+            "founded": "2016-09-12",
+            "employers": 4753,
+            "isActive": 1
+        },
+        {
+            "id": 29,
+            "name": "Orpheus Enterprises",
+            "founder": "Annemarie Turquoise",
+            "founded": "2014-11-23",
+            "employers": 4983,
+            "isActive": 0
+        },
+        {
+            "id": 30,
+            "name": "Overland Enterprises",
+            "founder": "Mireielle Indigo",
+            "founded": "2015-01-01",
+            "employers": 4922,
+            "isActive": 0
+        },
+        {
+            "id": 31,
+            "name": "1",
+            "founder": "2",
+            "founded": "0002-02-02",
+            "employers": "1",
+            "isActive": "1"
+        }
+    ]
+}
