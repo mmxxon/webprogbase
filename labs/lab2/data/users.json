@@ -1,5 +1,5 @@
 {
-  "nextId": 38,
+  "nextId": 51,
   "items": [
     {
       "id": 4,
@@ -18,15 +18,6 @@
       "registeredAt": "2020-07-23",
       "avaUrl": "https://i.some-random-api.ml/se4YekXGx4.jpg",
       "isEnabled": 1
-    },
-    {
-      "id": 6,
-      "login": "5uzni",
-      "fullname": "Lynde Pink",
-      "role": 0,
-      "registeredAt": "2016-09-12",
-      "avaUrl": "https://i.some-random-api.ml/G2QutE4BjB.jpg",
-      "isEnabled": 0
     },
     {
       "id": 7,
@@ -297,6 +288,82 @@
       "registeredAt": "0002-02-02",
       "avaUrl": "1",
       "isEnabled": "1"
+    },
+    {
+      "id": 38,
+      "login": "",
+      "fullname": "",
+      "role": "",
+      "registeredAt": "",
+      "avaUrl": "",
+      "isEnabled": 1
+    },
+    {
+      "id": 39
+    },
+    {
+      "id": 40
+    },
+    {
+      "id": 41
+    },
+    {
+      "id": 42,
+      "login": null,
+      "fullname": null,
+      "role": null,
+      "registeredAt": null,
+      "avaUrl": null,
+      "isEnabled": null
+    },
+    {
+      "id": 43,
+      "login": null,
+      "fullname": null,
+      "role": null,
+      "registeredAt": null,
+      "avaUrl": null,
+      "isEnabled": null
+    },
+    {
+      "id": 44,
+      "login": null,
+      "fullname": null,
+      "role": null,
+      "registeredAt": null,
+      "avaUrl": null,
+      "isEnabled": null
+    },
+    {
+      "id": 45,
+      "login": null,
+      "fullname": null,
+      "role": null,
+      "registeredAt": null,
+      "avaUrl": null,
+      "isEnabled": null
+    },
+    {
+      "login": "xon",
+      "fullname": "Max",
+      "id": 46
+    },
+    {
+      "login": "xon",
+      "fullame": "Max",
+      "id": 47
+    },
+    {
+      "id": 48
+    },
+    {
+      "id": 50,
+      "login": "string",
+      "fullname": "string",
+      "role": 0,
+      "registeredAt": 0,
+      "avaUrl": "string",
+      "isEnabled": 0
     }
   ]
 }

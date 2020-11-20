@@ -1,5 +1,5 @@
 {
-  "nextId": 33,
+  "nextId": 39,
   "items": [
     {
       "id": 2,
@@ -31,14 +31,6 @@
       "founder": "Kayla Plum",
       "founded": "2017-06-06",
       "employers": 4588,
-      "isActive": 1
-    },
-    {
-      "id": 6,
-      "name": "Napoleon Agency",
-      "founder": "Hedy Orange",
-      "founded": "2017-07-02",
-      "employers": 2868,
       "isActive": 1
     },
     {
@@ -240,6 +232,39 @@
       "founded": "0002-02-02",
       "employers": "1",
       "isActive": "1"
+    },
+    {
+      "id": 33,
+      "name": "",
+      "founder": "",
+      "founded": "",
+      "employers": "",
+      "isActive": 1
+    },
+    {
+      "id": 34,
+      "name": "",
+      "founder": "",
+      "founded": "",
+      "employers": "",
+      "isActive": 1
+    },
+    {
+      "id": 35
+    },
+    {
+      "id": 36
+    },
+    {
+      "id": 37
+    },
+    {
+      "id": 38,
+      "name": null,
+      "founder": "xon",
+      "founded": null,
+      "employers": null,
+      "isActive": null
     }
   ]
 }
